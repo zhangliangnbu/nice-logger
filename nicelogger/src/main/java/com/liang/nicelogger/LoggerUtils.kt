@@ -8,6 +8,6 @@ import android.util.Log
  */
 object LoggerUtils {
     fun d(message: String) {
-        Log.d("nice", message)
+        Log.d("nice2", message)
     }
 }
