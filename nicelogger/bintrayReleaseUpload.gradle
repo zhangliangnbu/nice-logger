@@ -1,0 +1,12 @@
+apply plugin: 'com.novoda.bintray-release'
+
+publish {
+    userOrg = 'zhangliang'
+    repoName = 'android'
+    groupId = 'com.liang.android'
+    artifactId = 'nicelogger'
+    publishVersion = '0.0.3'
+    uploadName = 'nicelogger'
+    desc = 'Oh hi, this is a nice description for nicelogger, right?'
+    website = 'https://github.com/zhangliangnbu/nice-logger'
+}
