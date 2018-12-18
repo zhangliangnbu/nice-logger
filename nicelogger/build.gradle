@@ -42,5 +42,5 @@ repositories {
 
 //apply from: './manualUpload.gradle'
 //apply from: './bintrayReleaseUpload.gradle'
-//apply from: './gradleBintrayPluginUpload.gradle'
-apply from: './gradleBintrayPluginUpload2.gradle'
+//apply from: './gradleBintrayPluginPublicationsUpload.gradle'
+apply from: './gradleBintrayPluginConfigurationsUpload.gradle'

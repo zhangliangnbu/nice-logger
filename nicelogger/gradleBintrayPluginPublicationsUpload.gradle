@@ -79,4 +79,4 @@ artifacts {
 }
 
 
-
+// 执行 ./gradlew clean build bintrayUpload
